@@ -12,3 +12,6 @@ else if (cardOne === cardTwo) {
 else if (cardThree === cardFour) {
 	window.alert("You found a match!")
 }
+
+
+
